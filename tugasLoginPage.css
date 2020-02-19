@@ -1,0 +1,96 @@
+.gambar2{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.gambar3{
+    margin-right: 300x;
+    margin-left: 300px;
+}
+
+.logoBerjalan{
+    background-color: black;
+    border: solid 5px yellow;
+}
+
+body{
+    background-color: black;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+}
+
+.user{
+    position: fixed;
+    top: 200px;
+    left: 450px;
+    width: 1000px;
+    height: auto;
+    border-radius: 15px;
+    perspective: 1px;
+    border: yellow solid 3px;
+    z-index: +1;
+    color: white;
+    /* font-size: xx-small; */
+    font-family: 'Trebuchet MS';
+    background: black;
+    
+}
+
+.tombolRegister{
+background-color: none;
+    outline: none;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+    font-family: 'Trebuchet MS';
+    border-radius: 15px;
+}
+
+.user1:hover{
+    font-size: 16px;
+    background-color: yellow;
+}
+
+.password:hover{
+    font-size: 16px;
+    background-color: yellow;
+}
+
+.email:hover{
+    font-size: 16px;
+    background-color: yellow;
+}
+
+.user1{
+    border-radius: 15px 50px 30px;
+    border: 2px solid yellow;
+    padding: 15px; 
+    width: 200px;
+    height: 5px; 
+}
+
+.password{
+    border-radius: 15px 50px 30px;
+    border: 2px solid yellow;
+    padding: 15px; 
+    width: 200px;
+    height: 5px; 
+}
+
+.email{
+    border-radius: 15px 50px 30px;
+    border: 2px solid yellow;
+    padding: 15px; 
+    width: 200px;
+    height: 5px; 
+}

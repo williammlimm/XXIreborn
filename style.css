@@ -1,0 +1,23 @@
+h1{
+    background-color: green;
+    border: 5px solid black;
+    color: red;
+}
+
+.biru:hover{
+    background-color: darkgray;
+    font-size: 40px;
+}
+
+marquee{
+    font-size: 250px;
+}
+
+.button-custom{
+    background-color: none;
+    outline: none;
+    background-color: sandybrown;
+    color: white;
+    font-size: 30px;
+}
+
